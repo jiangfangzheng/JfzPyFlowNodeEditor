@@ -1,9 +1,13 @@
 
-# ![Logo](apps/execution_node_editor/assets/icons/64x64.png) NodeEditor
+# 异想家任务流节点编辑器
 
-异想家基于Python的任务流节点编辑器，基于https://github.com/beyse/NodeEditor魔改发挥，感谢beyse，Thanks!
+异想家基于Python的任务流节点编辑器，基于 https://github.com/beyse/NodeEditor 魔改发挥，感谢beyse，Thanks!
 
+-------------------------------
 
+原文：2022.03
+
+![Logo](apps/execution_node_editor/assets/icons/64x64.png) NodeEditor
 
 A multi purpose node editor for flow-based programming.
 ![Image](doc/screenshot-image-processing.png)
